@@ -1,0 +1,8 @@
+@import "./css/reset/reset.css";
+
+@import "./css/block/header.css";
+@import "./css/block/card.css";
+@import "./css/block/icon.css";
+@import "./css/block/timeline.css";
+@import "./css/block/links.css";
+@import "./css/block/footer.css";

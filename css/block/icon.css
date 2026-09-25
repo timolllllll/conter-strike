@@ -1,0 +1,9 @@
+.icon{
+    width:44px; height:44px; margin-bottom:10px; border-radius:8px;
+    display:flex; align-items:center; justify-content:center;
+    font-weight:bold; color:#0d1117; font-size:1.2em;
+}
+.ic1{background:var(--accent);}
+.ic2{background:var(--accent2); color:#fff;}
+.ic3{background:#4f9e94; color:#fff;}
+.ic4{background:#5a7fbf; color:#fff;}

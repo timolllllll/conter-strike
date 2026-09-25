@@ -1,0 +1,7 @@
+.links{display:flex; flex-wrap:wrap; gap:12px; margin-top:16px;}
+.links a{
+    display:inline-block; padding:12px 18px; border-radius:8px;
+    background:var(--card); color:var(--text); text-decoration:none;
+    border:1px solid #2a333d; font-size:0.95em;
+}
+.links a:hover{border-color:var(--accent);}
